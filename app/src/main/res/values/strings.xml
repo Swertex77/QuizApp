@@ -7,4 +7,7 @@
     <string name="start">start</string>
     <string name="image_flag">Image Flag</string>
     <string name="check_answer">Check Answer</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulation">Hey, Congratulation!</string>
+    <string name="finish">FINISH</string>
 </resources>
