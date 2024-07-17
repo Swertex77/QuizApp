@@ -5,6 +5,10 @@ import com.example.quizapp.model.Question
 
 object Constants {
 
+    const val USER_NAME = "user_name"
+    const val TOTAL_QUESTIONS = "total_questions"
+    const val SCORE = "correct_answers"
+
     fun getQuestions(): MutableList<Question> {
         val questions = mutableListOf<Question>()
 
@@ -94,7 +98,7 @@ object Constants {
             R.drawable.flag_of_netherlands, "Greece",
             "Bolivia", "Netherlands",
             "Slovakia",
-            1
+            3
         )
         questions.add(quest10)
         return questions
