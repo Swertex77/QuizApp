@@ -39,17 +39,17 @@ QuizApp
 
 Скриншоты приложения
 --------------------
-1) Экран авторизации:
-![2024-07-17 11 55 37](https://github.com/user-attachments/assets/658cd690-98d2-4302-8a33-a4418c95792e)
+## Экран авторизации:
+<img src="https://github.com/user-attachments/assets/658cd690-98d2-4302-8a33-a4418c95792e" width="300">
 
-2) Экран с возможностью выбора правильного ответа:
-![2024-07-17 11 55 43](https://github.com/user-attachments/assets/38674d48-9ca1-4747-87f6-379536a23956)
+## Экран с возможностью выбора правильного ответа:
+<img src="https://github.com/user-attachments/assets/38674d48-9ca1-4747-87f6-379536a23956" width="300">
 
-3) Экран с правильно выбранным вариантом ответа:
-![2024-07-17 11 55 28](https://github.com/user-attachments/assets/34ecc813-8379-435e-82ed-a55c7c32ecff)
+## Экран с правильно выбранным вариантом ответа:
+<img src="https://github.com/user-attachments/assets/34ecc813-8379-435e-82ed-a55c7c32ecff" width="300">
 
-4) Экран с неправильно выбранным вариантом ответа:
-![2024-07-17 11 55 48](https://github.com/user-attachments/assets/113d858d-8a39-4c76-9bfd-723623dcafa6)
+## Экран с неправильно выбранным вариантом ответа:
+<img src="https://github.com/user-attachments/assets/113d858d-8a39-4c76-9bfd-723623dcafa6" width="300">
 
-5) Экран завершения викторины:
-![2024-07-17 11 55 52](https://github.com/user-attachments/assets/a6bc5bb2-c585-4932-8396-9283a5693400)
+## Экран завершения викторины:
+<img src="https://github.com/user-attachments/assets/a6bc5bb2-c585-4932-8396-9283a5693400" width="300">
