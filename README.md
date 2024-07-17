@@ -40,16 +40,16 @@ QuizApp
 Скриншоты приложения
 --------------------
 1) Экран авторизации:
- ![image](file:///var/folders/jg/27btlyc97_zb1ztj3q7hmk280000gn/T/IMAGE%202024-07-17%2011:50:23.jpg )
+![2024-07-17 11 55 37](https://github.com/user-attachments/assets/658cd690-98d2-4302-8a33-a4418c95792e)
 
 2) Экран с возможностью выбора правильного ответа:
- ![image](file:///var/folders/jg/27btlyc97_zb1ztj3q7hmk280000gn/T/IMAGE%202024-07-17%2011:52:07.jpg)
+![2024-07-17 11 55 43](https://github.com/user-attachments/assets/38674d48-9ca1-4747-87f6-379536a23956)
 
 3) Экран с правильно выбранным вариантом ответа:
- ![image](file:///var/folders/jg/27btlyc97_zb1ztj3q7hmk280000gn/T/IMAGE%202024-07-17%2011:53:10.jpg)
+![2024-07-17 11 55 28](https://github.com/user-attachments/assets/34ecc813-8379-435e-82ed-a55c7c32ecff)
 
 4) Экран с неправильно выбранным вариантом ответа:
- ![image](file:///var/folders/jg/27btlyc97_zb1ztj3q7hmk280000gn/T/IMAGE%202024-07-17%2011:53:47.jpg)
+![2024-07-17 11 55 48](https://github.com/user-attachments/assets/113d858d-8a39-4c76-9bfd-723623dcafa6)
 
 5) Экран завершения викторины:
- ![image](file:///var/folders/jg/27btlyc97_zb1ztj3q7hmk280000gn/T/IMAGE%202024-07-17%2011:54:26.jpg)
+![2024-07-17 11 55 52](https://github.com/user-attachments/assets/a6bc5bb2-c585-4932-8396-9283a5693400)
